@@ -212,6 +212,5 @@ Feel free to use, modify, and distribute it for educational and personal purpose
 
 ### Thank you for visiting!
 
-⭐ Happy Coding ⭐
 
 </div>
