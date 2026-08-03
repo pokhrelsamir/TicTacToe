@@ -100,27 +100,19 @@ No installation or dependencies required.
 
 ---
 
-# 📸 Screenshots
+## 📸 Screenshots
 
-> Add screenshots here after completing the project.
+### 🏠 Home Screen
 
-```
-screenshots/
+![Home](https://github.com/user-attachments/assets/1969aca3-bdc3-44d6-bb49-7539ee39cf4f)
 
-├── home.png
-├── gameplay.png
-└── winner.png
-```
+### 🎮 Gameplay
 
-Example:
+![Gameplay](https://github.com/user-attachments/assets/eed85529-7b9b-48b7-b993-4d7a6ea08716)
 
-```markdown
-[Home](screenshots/home.png)
+### 🏆 Winner Screen
 
-![Gameplay](screenshots/gameplay.png)
-
-![Winner](screenshots/winner.png)
-```
+![Winner](https://github.com/user-attachments/assets/cce04532-88b6-4746-b3b3-8b6d04426d69)
 
 ---
 
