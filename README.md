@@ -8,7 +8,7 @@
 ![Responsive](https://img.shields.io/badge/Responsive-Yes-success?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
-A modern and responsive **Tic Tac Toe** game built using **HTML**, **CSS**, and **Vanilla JavaScript**.  
+A modern and responsive **Tic Tac Toe** game built using **HTML**, **CSS** and **Vanilla JavaScript**.  
 Designed with a clean UI, smooth animations, and an enjoyable user experience.
 
 </div>
