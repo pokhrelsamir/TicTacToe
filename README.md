@@ -108,11 +108,11 @@ No installation or dependencies required.
 
 ### 🎮 Gameplay
 
-![Winner](https://github.com/user-attachments/assets/cce04532-88b6-4746-b3b3-8b6d04426d69)
+![Gameplay](https://github.com/user-attachments/assets/cce04532-88b6-4746-b3b3-8b6d04426d69)
 
 ### 🏆 Winner Screen
 
-![Gameplay](https://github.com/user-attachments/assets/eed85529-7b9b-48b7-b993-4d7a6ea08716)
+![Winner](https://github.com/user-attachments/assets/eed85529-7b9b-48b7-b993-4d7a6ea08716)
 
 ---
 
